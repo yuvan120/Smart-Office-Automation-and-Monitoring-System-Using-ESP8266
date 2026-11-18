@@ -10,6 +10,12 @@ The collected sensor data is transmitted through Wi-Fi to the KiwisIoT platform,
 
 This project helps improve workplace comfort, simplify office management, reduce unnecessary energy consumption, and create a smarter working environment.
 
+Project Links:
+https://www.hackster.io/yuvansris2002/smart-office-automation-and-monitoring-system-using-esp8266-092923
+
+Learn More:
+https://github.com/Kiwistron/KiwisIoT-Projects/tree/main/esp8266/001-ldr-kiwisiot
+
 ## 🌐 Explore KiwisIoT
 
 Want to build your own IoT projects?
@@ -20,6 +26,3 @@ Visit [**KiwisIoT – https://www.kiwisiot.in/**](https://www.kiwisiot.in/) to e
 
 ---
 
-<p align="center">
-  <b>ESP8266 | IoT | Smart Office Automation | Remote Monitoring | Connected with KiwisIoT</b>
-</p>
